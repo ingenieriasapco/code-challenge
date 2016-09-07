@@ -10,8 +10,8 @@ Este ejercicio el candidato tendrá que construir una aplicación móvil híbrid
  
 Te dejamos una imagen para que nos comprendas mejor lo que pedimos que realices.
 
-![](http://media.giphy.com/media/l3vQYM5FrUJhXRjLG/giphy.gif)
-![](https://media.giphy.com/media/l3vQYM5FrUJhXRjLG/giphy.gif)
+
+![demo](https://media.giphy.com/media/l3vQYM5FrUJhXRjLG/giphy.gif)
 
 Aquí están las directrices para este ejercicio:
 
