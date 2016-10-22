@@ -14,7 +14,7 @@ https://media.giphy.com/media/l3vQYM5FrUJhXRjLG/giphy.gif
 Aquí están las directrices para este ejercicio:
 
 * Puedes usar cualquier framework o libreria (ej. jQuery, Angular, React, Ionic, etc).
-* La aplicación debe poder guardar en localstorages las revisiones anteriores
+* La aplicación debe poder guardar y consumir la informacion desde un servidor en NodeJS usando MongoDB para persistir los datos.
 * La imagen a guardar debe subirse a un  sistema de almacenamiento como [Cloudinary](http://cloudinary.com/)
 * Deben almacenar su codigo fuente en [GitHub](https://github.com/).
 * Crear un archivo README.md con las instrucciones de ejecucion del proyecto.
