@@ -13,11 +13,12 @@ https://media.giphy.com/media/l3vQYM5FrUJhXRjLG/giphy.gif
 
 Aquí están las directrices para este ejercicio:
 
-* Construir la aplicacion movil usando [React Native](https://facebook.github.io/react-native/).
-* La aplicación debe poder guardar y consumir los datos desde una base de datos local, en este caso usando [Realm.io](https://realm.io/).
+* Construir la aplicacion movil usando [React](https://facebook.github.io/react/).
+* La aplicación debe poder guardar y consumir los datos desde una base de datos local.
 * La imagen a guardar debe subirse a un  sistema de almacenamiento como [Cloudinary](http://cloudinary.com/)
 * Deben almacenar su codigo fuente en [GitHub](https://github.com/) haciendo un Fork a este proyecto.
 * Crear un archivo README.md con las instrucciones de ejecucion del proyecto.
 * Por favor, no incluyen la carpeta en node_modules en su repositorio.
+* Desplegar el proyecto en un servidor (Git Hub Pages, Heroku, Amazon, etc)
 
 
